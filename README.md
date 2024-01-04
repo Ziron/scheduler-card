@@ -734,6 +734,7 @@ Currently the following languages are supported:
 | Slovenščina  | sl         |                   |
 | Slovenský  | sk         |                   |
 | Suomalainen  | fi        |                   |
+| Svenska     | sv         |                   |
 | Nederlands  | nl         |                   |
 | Norsk       | no, nb, nn |                   |
 | 简体中文    | zh-Hans    |                   |
